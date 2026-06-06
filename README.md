@@ -92,7 +92,6 @@ aws-lamp-wordpress-deployment/
 ├── docs/
 │   ├── commands_reference.md
 │   ├── enhancements.md
-│   ├── resume_bullets.md
 │   └── security_notes.md
 ├── report/
 │   ├── aws-lamp-wordpress-case-study.pdf
